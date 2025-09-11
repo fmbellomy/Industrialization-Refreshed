@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": {
+      "model": "modern_industrialization:block/clean_stainless_steel_machine_casing"
+    }
+  },
+
+  "athena:loader": "athena:ctm",
+  "ctm_textures": {
+    "center":     "modern_industrialization:block/ctm/casings/clean_stainless/4",
+    "empty":      "modern_industrialization:block/ctm/casings/clean_stainless/1",
+    "horizontal": "modern_industrialization:block/ctm/casings/clean_stainless/3",
+    "particle":   "modern_industrialization:block/ctm/casings/clean_stainless/0",
+    "vertical":   "modern_industrialization:block/ctm/casings/clean_stainless/2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": {
+      "model": "modern_industrialization:block/heatproof_machine_casing"
+    }
+  },
+
+  "athena:loader": "athena:ctm",
+  "ctm_textures": {
+    "center":     "modern_industrialization:block/ctm/casings/heatproof/4",
+    "empty":      "modern_industrialization:block/ctm/casings/heatproof/1",
+    "horizontal": "modern_industrialization:block/ctm/casings/heatproof/3",
+    "particle":   "modern_industrialization:block/ctm/casings/heatproof/0",
+    "vertical":   "modern_industrialization:block/ctm/casings/heatproof/2"
+  }
+}

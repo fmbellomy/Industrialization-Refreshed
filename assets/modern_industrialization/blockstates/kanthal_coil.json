@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": {
+      "model": "modern_industrialization:block/kanthal_coil"
+    }
+  },
+
+  "athena:loader": "athena:ctm",
+  "ctm_textures": {
+    "center":     "modern_industrialization:block/ctm/coils/kanthal/4",
+    "empty":      "modern_industrialization:block/ctm/coils/kanthal/1",
+    "horizontal": "modern_industrialization:block/ctm/coils/kanthal/3",
+    "particle":   "modern_industrialization:block/ctm/coils/kanthal/0",
+    "vertical":   "modern_industrialization:block/ctm/coils/kanthal/2"
+  }
+}

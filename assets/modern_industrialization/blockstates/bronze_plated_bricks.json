@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": {
+      "model": "modern_industrialization:block/bronze_plated_bricks"
+    }
+  },
+
+  "athena:loader": "athena:ctm",
+  "ctm_textures": {
+    "center":     "modern_industrialization:block/ctm/bricks/bronze/4",
+    "empty":      "modern_industrialization:block/ctm/bricks/bronze/1",
+    "horizontal": "modern_industrialization:block/ctm/bricks/bronze/3",
+    "particle":   "modern_industrialization:block/ctm/bricks/bronze/0",
+    "vertical":   "modern_industrialization:block/ctm/bricks/bronze/2"
+  }
+}
