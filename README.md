@@ -1,11 +1,12 @@
 
-# Industrialization: Refreshed
+# fmbellomy's fork of industrialization refreshed
+The primary purpose of this fork is to get it to work in the context of the modpack Egregious Industrialization. That means I won't be going out of my way to add textures already included in , such as material sets like crushed/washed ores/plates, as they are already handled by MI's runtime data generation.
+
+*It also will be targeting 1.21.1 NeoForge Instead of fabric 1.20.1, so keep that in mind. *
+
+## Industrialization: Refreshed
 
 A port of [GregTech: Refreshed](https://modrinth.com/resourcepack/gregtech-refreshed) for [Modern Industrialization](a).
-
-Requires the [Athena](https://modrinth.com/mod/athena-ctm) mod to add CTM to blocks.  
-
-(WARNING: DESIGNED WITH FABRIC 1.20.1 IN MIND.)
 
 ### To-Do:
 
@@ -14,16 +15,15 @@ Requires the [Athena](https://modrinth.com/mod/athena-ctm) mod to add CTM to blo
 3. Create new Pipe Machine Casing textures (compatible with CTM)
 4. Edit Capacitor texture from GTR to fit MI resource requirements.
 5. Retexture all circuit boards, circuits, and circuit components.
-6. Retexture all crushed dusts to fit the GTR style.
-7. Retexture all parts (gears, cogs, plates, ingots etc.) to match GTR style.
-8. Retexture misc. items (e.g., pipe config card, wood pulp, rubber sheet)
-9. Retexture barrels, tanks, crates, and energy storage units.
-10. Edit item and fluid IO ports.
-11. Retexture iridium machine casings.
-12. Retexture reactor casings.
-13. Edit Blastproof Casing to look, well, more blast-proof.
-14. Edit the pipe / cable textures and models.
-15. Get emissive textures working. (i.e., via Continuity)
+6. Retexture all parts (gears, cogs, plates, ingots etc.) to match GTR style.
+7. Retexture misc. items (e.g., pipe config card, wood pulp, rubber sheet)
+8. Retexture barrels, tanks, crates, and energy storage units.
+9. Edit item and fluid IO ports.
+10. Retexture iridium machine casings.
+11. Retexture reactor casings.
+12. Edit Blastproof Casing to look, well, more blast-proof.
+13. Edit the pipe / cable textures and models.
+14. Get emissive textures working. (i.e., via Continuity)
 
 ### Install instructions:
 
